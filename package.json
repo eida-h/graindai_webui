@@ -2,6 +2,7 @@
   "name": "graindai_webui",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://eida-h.github.io/graindai_webui/",
   "dependencies": {
     "@tensorflow/tfjs": "^4.10.0",
     "@testing-library/jest-dom": "^5.17.0",
@@ -16,7 +17,11 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "rm": "rm -rf docs",
+    "mv": "mv build docs",
+    "git": "git add . && git commit && git push origin master",
+    "deploy": "npm run rm && npm run build && npm run mv && npm run git"
   },
   "eslintConfig": {
     "extends": [

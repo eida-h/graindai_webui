@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/graindai_webui/static/css/main.9a6490ab.css",
+    "main.js": "/graindai_webui/static/js/main.aa52a5a3.js",
+    "static/js/787.049bd486.chunk.js": "/graindai_webui/static/js/787.049bd486.chunk.js",
+    "index.html": "/graindai_webui/index.html",
+    "main.9a6490ab.css.map": "/graindai_webui/static/css/main.9a6490ab.css.map",
+    "main.aa52a5a3.js.map": "/graindai_webui/static/js/main.aa52a5a3.js.map",
+    "787.049bd486.chunk.js.map": "/graindai_webui/static/js/787.049bd486.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a6490ab.css",
+    "static/js/main.aa52a5a3.js"
+  ]
+}
