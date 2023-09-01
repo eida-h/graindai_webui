@@ -2,7 +2,7 @@
   "name": "graindai_webui",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://eida-h.github.io/graindai_webui/",
+  "homepage": "https://eida-h.github.io/grindai_webui/",
   "dependencies": {
     "@tensorflow/tfjs": "^4.10.0",
     "@testing-library/jest-dom": "^5.17.0",

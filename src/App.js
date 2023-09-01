@@ -32,7 +32,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Coffee beans graind predictor</h1>
+      <h1>Coffee beans grind predictor</h1>
       <input type="file" onChange={e => {
         if (!e.target.files || e.target.files.length === 0) {
           return;  // ファイルが選択されていない場合は何もしない
