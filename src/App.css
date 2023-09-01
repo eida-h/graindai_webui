@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.App {
+  text-align: center;
+  margin: 50px;
+}
+
+img {
+  margin-top: 20px;
+  border: 1px solid #ddd;
+}
+
+button {
+  margin: 20px;
+  padding: 10px 20px;
+}
+
