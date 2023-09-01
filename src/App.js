@@ -29,6 +29,7 @@ function App() {
     const predictedClass = predictions.argMax(1).dataSync()[0];
     setPrediction(predictedClass);  // Here, you'd probably have some mapping from class index to label
   };
+  // com
 
   return (
     <div className="App">
